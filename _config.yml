@@ -1,0 +1,28 @@
+name: Vine Dining Newsletter
+favicon: null
+layout_spectrum: 0.16578028281219304
+typography_spectrum: 0.3996174829080701
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.16409863368608057
+  lightness: 0.5831435460131615
+  saturation: 0.5781008212361485
+  rhythmicContrast: 0.6830625422298908
+purpose: []
